@@ -8,3 +8,8 @@ menu.onclick = () => {
     else 
     ul.style.display = "flex";
 }
+
+document.querySelector('.landing-page').onclick = ()=> {
+    ul.style.display = "none";
+}
+    
